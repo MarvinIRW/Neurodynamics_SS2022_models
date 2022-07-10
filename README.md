@@ -33,6 +33,5 @@ Wurch M.
 
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
 * [interactive neuron model simulator](https://github.com/Devrim-Celik/interactive_neuron_model_simulator.git)
 * [some other references i guess](https://www.google.com)
