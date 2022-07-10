@@ -25,10 +25,10 @@ We changed the code such that it was convenient to plot it with matplotlib and c
 
 Contributors names and contact info
 
-Griesel A.
-Kirsch F.
-Martynenko I.
-Mossner C.
+Griesel A.,
+Kirsch F.,
+Martynenko I.,
+Mossner C.,
 Wurch M.
 
 ## Acknowledgments
