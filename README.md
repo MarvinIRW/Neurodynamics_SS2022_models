@@ -1,5 +1,4 @@
 # Neurodynamics_SS2022_models
-<<<<<<< HEAD
 
 Jupyter notebook with code to model a singel neuron with given parameters.
 
@@ -37,7 +36,3 @@ Wurch M.
 Inspiration, code snippets, etc.
 * [interactive neuron model simulator](https://github.com/Devrim-Celik/interactive_neuron_model_simulator.git)
 * [some other references i guess] (https://www.google.com)
-=======
-jupyter notebook with code to model a singel neuron with given parameters.
-code for the models is inspired by https://github.com/Devrim-Celik/interactive_neuron_model_simulator.git
->>>>>>> 958837039e29919136a3447ada752c39d0afd26c
