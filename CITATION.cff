@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Neurodynamics_SS2022_models
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Aline
+    family-names: Griesel
+    email: agriesel@uni-osnabrueck.de
+  - given-names: Fabian
+    family-names: Kirsch
+    email: fkirsch@uni-osnabrueck.de
+  - given-names: Ilona
+    family-names: Martynenko
+    email: imartynenko@uni-osnabrueck.de
+  - given-names: Carmen
+    family-names: Moßner
+    email: cmossner@uni-osnabrueck.de
+  - given-names: Marvin
+    family-names: Wurch
+    email: mwurch@uni-osnabrueck.de
