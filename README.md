@@ -23,8 +23,6 @@ We changed the code such that it was convenient to plot it with matplotlib and c
 
 ## Authors
 
-Contributors names and contact info
-
 Griesel A.,
 Kirsch F.,
 Martynenko I.,
